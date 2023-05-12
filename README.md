@@ -2,7 +2,7 @@
 
 ## Jayaram Karunakaran
 
-3+ years of experience in Web and Hybrid application development as a Individual and also as Team Player from Scratch to Structural Maintaince of projects
+3+ years of experience in Web and Hybrid application development
 
 ### 🛠 Skills
 
