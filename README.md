@@ -2,7 +2,9 @@
 
 ## Jayaram Karunakaran
 
-3+ years of experience in Web and Hybrid application development
+Innovative Developer with 3+ years of hands-on experience in designing web and hybrid applications.
+Expert on converting Figma/Zeplin/Adobe XD design into high level responsive and reusable code.
+Checkout [Linkedin](https://www.linkedin.com/in/jayaram-karunakaran/) to know more about me.
 
 ### 🛠 Skills
 
