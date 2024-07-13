@@ -8,17 +8,17 @@ Checkout [Linkedin](https://www.linkedin.com/in/jayaram-karunakaran/) to know mo
 
 ### 🛠 Skills
 
-**Proficient in :**  React.js, Next.js, Redux, Bootstrap, Typescript, Tailwind Css, HTML, SCSS, Storybook, Rollup, Git.
+**Proficient in :**  React.js, Next.js, Node.js, Redux, Bootstrap, Typescript, MUI Materials, Tailwind Css, HTML, Storybook, Rollup.
 
-**Knowledge on:** React native, Flutter, Angular, Vue.js, Node.js and MongoDB.
+**Knowledge on:** MongoDB, React native, Flutter, Angular, Vue.js.
 
-**Good at :** Redux, Reusable and Responsive UIs in cross platforms.
+**Good at :** Reusable and Responsive UIs in cross platforms.
 
 ### 🌐 Live Demo Projects
 
  - [My Space](https://my-space-jayjarvis.vercel.app)
- - [Movie Blog](https://movies-blog-jayjarvis.vercel.app/)
  - [Movie Stream](https://movie-stream-jayjarvis.vercel.app)
+ - [Movie Blog](https://movies-blog-jayjarvis.vercel.app/)
 
 ## Connect/Feedback
 
