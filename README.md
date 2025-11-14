@@ -2,7 +2,7 @@
 
 ## Jayaram Karunakaran
 
-Innovative Developer with 4+ years of hands-on experience in designing web and hybrid applications.
+Innovative Developer with 5.6+ years of hands-on experience in designing web and hybrid applications.
 Expert on converting Figma/Zeplin/Adobe XD design into high level responsive and reusable code.
 Checkout [Linkedin](https://www.linkedin.com/in/jayaram-karunakaran/) to know more about me.
 
@@ -10,7 +10,7 @@ Checkout [Linkedin](https://www.linkedin.com/in/jayaram-karunakaran/) to know mo
 
 **Proficient in :**  React.js, Next.js, Node.js, Redux, Bootstrap, Typescript, MUI Materials, Tailwind Css, HTML, Storybook, Rollup.
 
-**Knowledge on:** MongoDB, React native, Flutter, Angular, Vue.js.
+**Knowledge on:** MongoDB, PostgreSQL, React native, Flutter, Angular, Vue.js.
 
 **Good at :** Reusable and Responsive UIs in cross platforms.
 
