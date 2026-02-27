@@ -8,20 +8,21 @@ Checkout [Linkedin](https://www.linkedin.com/in/jayaram-karunakaran/) to know mo
 
 ### 🛠 Skills
 
-**Proficient in :**  React.js, Next.js, Node.js, Redux, Bootstrap, Typescript, MUI Materials, Tailwind Css, HTML, Storybook, Rollup.
+**Proficient in :**  React.js, Next.js, Node.js, Redux, Bootstrap, Typescript, MUI Materials, Tailwind Css, HTML, Storybook.
 
-**Knowledge on:** MongoDB, PostgreSQL, React native, Flutter, Angular, Vue.js.
+**Knowledge on:** MongoDB, PostgreSQL, Firebase, React native, Flutter, Angular, Vue.js,.
 
 **Good at :** Reusable and Responsive UIs in cross platforms.
 
 ### 🌐 Live Demo Projects
 
+ - [Task Manager - MERN App](https://jay-task-manager.vercel.app/)
  - [My Space](https://my-space-jayjarvis.vercel.app)
  - [Movie Stream](https://movie-stream-jayjarvis.vercel.app)
  - [Movie Blog](https://movies-blog-jayjarvis.vercel.app/)
 
 ## Connect/Feedback
 
-Please reach out to me at jayaramk2603@gmail.com
+Please reach out to me at jayaram.karunakaran@yahoo.com
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaram-karunakaran/)
