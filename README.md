@@ -4,7 +4,6 @@
 
 Innovative Developer with 6+ years of hands-on experience in designing web and hybrid applications.
 Expert on converting Stitch/Figma/Zeplin/Adobe XD design into high level responsive and reusable code.
-Checkout [Linkedin](https://www.linkedin.com/in/jayaram-karunakaran/) to know more about me.
 
 ### 🛠 Skills
 
@@ -25,5 +24,3 @@ Checkout [Linkedin](https://www.linkedin.com/in/jayaram-karunakaran/) to know mo
 ## Connect/Feedback
 
 Please reach out to me at jayaram.karunakaran.dev@gmail.com
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaram-karunakaran/)
